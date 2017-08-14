@@ -1,0 +1,3 @@
+FROM dockerexp
+MAINTAINER "survivewithodds@gmail.com"
+CMD ["/bin/sh", "-c"]
